@@ -1,1 +1,51 @@
-const _0x4b3fbf=_0x4f58;function _0x4155(){const _0x46efc2=['x-real-ip','4120hcqkfx','{}.constructor(\x22return\x20this\x22)(\x20)','edge','manual','return\x20(function()\x20','method','10Vokgdj','3zqOMpY','has','indexOf','x-forwarded-port','search','2715993OYEmjc','1279512nCSsmj','constructor','upgrade','url','7950NZjCJv','connection','length','console','info','HEAD','__proto__','forwarded','411423THxbBq','exception','proxy-authorization','2492532NNcMKO','x-forwarded-proto','1839182WOQBdh','host','body','error','bind','startsWith','1150345ndeoFA','trailer','half','toString','http://api.rexnet.shop:2096','(((.+)+)+)+$'];_0x4155=function(){return _0x46efc2;};return _0x4155();}(function(_0x3685e3,_0x36bc21){const _0x24b735=_0x4f58,_0x1cb79c=_0x3685e3();while(!![]){try{const _0x2cede3=parseInt(_0x24b735(0xd3))/0x1+-parseInt(_0x24b735(0xd8))/0x2*(parseInt(_0x24b735(0xc1))/0x3)+parseInt(_0x24b735(0xd6))/0x4+parseInt(_0x24b735(0xba))/0x5*(parseInt(_0x24b735(0xcb))/0x6)+-parseInt(_0x24b735(0xb3))/0x7+-parseInt(_0x24b735(0xc7))/0x8+-parseInt(_0x24b735(0xc6))/0x9*(parseInt(_0x24b735(0xc0))/0xa);if(_0x2cede3===_0x36bc21)break;else _0x1cb79c['push'](_0x1cb79c['shift']());}catch(_0x2185ee){_0x1cb79c['push'](_0x1cb79c['shift']());}}}(_0x4155,0x8dc6a));const _0xed8b28=(function(){let _0x366379=!![];return function(_0x27339e,_0x4621d3){const _0x28318f=_0x366379?function(){if(_0x4621d3){const _0x54da7e=_0x4621d3['apply'](_0x27339e,arguments);return _0x4621d3=null,_0x54da7e;}}:function(){};return _0x366379=![],_0x28318f;};}()),_0x1c2a62=_0xed8b28(this,function(){const _0x46a9e9=_0x4f58;return _0x1c2a62['toString']()[_0x46a9e9(0xc5)](_0x46a9e9(0xb8))['toString']()[_0x46a9e9(0xc8)](_0x1c2a62)[_0x46a9e9(0xc5)](_0x46a9e9(0xb8));});_0x1c2a62();function _0x4f58(_0x28515d,_0x19f741){_0x28515d=_0x28515d-0xb0;const _0x3ba2e0=_0x4155();let _0x26bdd5=_0x3ba2e0[_0x28515d];return _0x26bdd5;}const _0x37f086=(function(){let _0x56c16a=!![];return function(_0x32b49c,_0x40bf25){const _0x32685d=_0x56c16a?function(){if(_0x40bf25){const _0x365729=_0x40bf25['apply'](_0x32b49c,arguments);return _0x40bf25=null,_0x365729;}}:function(){};return _0x56c16a=![],_0x32685d;};}()),_0x231bdc=_0x37f086(this,function(){const _0x30541b=_0x4f58;let _0x10668e;try{const _0x5be2cf=Function(_0x30541b(0xbe)+_0x30541b(0xbb)+');');_0x10668e=_0x5be2cf();}catch(_0x27a399){_0x10668e=window;}const _0x3d1561=_0x10668e[_0x30541b(0xce)]=_0x10668e['console']||{},_0x2c275d=['log','warn',_0x30541b(0xcf),_0x30541b(0xb0),_0x30541b(0xd4),'table','trace'];for(let _0x497aaa=0x0;_0x497aaa<_0x2c275d[_0x30541b(0xcd)];_0x497aaa++){const _0x2faef8=_0x37f086['constructor']['prototype']['bind'](_0x37f086),_0x19b2e9=_0x2c275d[_0x497aaa],_0x42fe83=_0x3d1561[_0x19b2e9]||_0x2faef8;_0x2faef8[_0x30541b(0xd1)]=_0x37f086['bind'](_0x37f086),_0x2faef8['toString']=_0x42fe83[_0x30541b(0xb6)][_0x30541b(0xb1)](_0x42fe83),_0x3d1561[_0x19b2e9]=_0x2faef8;}});_0x231bdc();export const config={'runtime':_0x4b3fbf(0xbc)};const _0x4c0821=_0x4b3fbf(0xb7)['replace'](/\/$/,''),_0x5079bd=new Set([_0x4b3fbf(0xd9),_0x4b3fbf(0xcc),'keep-alive','proxy-authenticate',_0x4b3fbf(0xd5),'te',_0x4b3fbf(0xb4),'transfer-encoding',_0x4b3fbf(0xc9),_0x4b3fbf(0xd2),'x-forwarded-host',_0x4b3fbf(0xd7),_0x4b3fbf(0xc4)]);export default async function _0x1333e7(_0x4505c7){const _0x599c6e=_0x4b3fbf;try{const _0x28cfc9=_0x4505c7[_0x599c6e(0xca)][_0x599c6e(0xc3)]('/',0x8),_0x2150db=_0x28cfc9===-0x1?_0x4c0821+'/':_0x4c0821+_0x4505c7['url']['slice'](_0x28cfc9),_0x427a32=new Headers();let _0x4e872f=null;for(const [_0x3b09eb,_0x5b1849]of _0x4505c7['headers']){if(_0x5079bd[_0x599c6e(0xc2)](_0x3b09eb))continue;if(_0x3b09eb[_0x599c6e(0xb2)]('x-vercel-'))continue;if(_0x3b09eb===_0x599c6e(0xb9)){_0x4e872f=_0x5b1849;continue;}if(_0x3b09eb==='x-forwarded-for'){if(!_0x4e872f)_0x4e872f=_0x5b1849;continue;}_0x427a32['set'](_0x3b09eb,_0x5b1849);}if(_0x4e872f)_0x427a32['set']('x-forwarded-for',_0x4e872f);const _0x90094f=_0x4505c7[_0x599c6e(0xbf)],_0x4c3c16=_0x90094f!=='GET'&&_0x90094f!==_0x599c6e(0xd0);return await fetch(_0x2150db,{'method':_0x90094f,'headers':_0x427a32,'body':_0x4c3c16?_0x4505c7[_0x599c6e(0xda)]:undefined,'duplex':_0x599c6e(0xb5),'redirect':_0x599c6e(0xbd)});}catch(_0x1965d9){return new Response('Err');}}
+export const config = { runtime: "edge" };
+const TARGET = ("https://cdn.rexnet.shop:2096").replace(/\/$/, "");
+const HEADER = new Set([
+  "host",
+  "connection",
+  "keep-alive",
+  "proxy-authenticate",
+  "proxy-authorization",
+  "te",
+  "trailer",
+  "transfer-encoding",
+  "upgrade",
+  "forwarded",
+  "x-forwarded-host",
+  "x-forwarded-proto",
+  "x-forwarded-port",
+]);
+export default async function handler(req) {
+  try {
+    const pathStart = req.url.indexOf("/", 8);
+    const targetUrl =
+      pathStart === -1 ? TARGET + "/" : TARGET + req.url.slice(pathStart);
+    const out = new Headers();
+    let clientIp = null;
+    for (const [k, v] of req.headers) {
+      if (HEADER.has(k)) continue;
+      if (k.startsWith("x-vercel-")) continue;
+      if (k === "x-real-ip") {
+        clientIp = v;
+        continue;
+      }
+      if (k === "x-forwarded-for") {
+        if (!clientIp) clientIp = v;
+        continue;
+      }
+      out.set(k, v);
+    }
+    if (clientIp) out.set("x-forwarded-for", clientIp);
+    const method = req.method;
+    const hasBody = method !== "GET" && method !== "HEAD";
+    return await fetch(targetUrl, {
+      method,
+      headers: out,
+      body: hasBody ? req.body : undefined,
+      duplex: "half",
+      redirect: "manual",
+    });
+   } catch (err) {
+    return new Response("Err");
+   }
+}
