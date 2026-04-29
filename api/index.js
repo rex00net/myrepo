@@ -1,5 +1,4 @@
 export const config = { runtime: "edge" };
-const TARGET = ("http://api.rexnet.shop:2096").replace(/\/$/, "");
 const HEADER = new Set([
   "host",
   "connection",
